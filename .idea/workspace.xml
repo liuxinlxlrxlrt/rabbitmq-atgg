@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aca47d1c-96a2-4415-97b7-7d4286199b0e" name="Default Changelist" comment="" />
+    <list default="true" id="aca47d1c-96a2-4415-97b7-7d4286199b0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/rabbitmqhello/target/" />
     <ignored path="$PROJECT_DIR$/springboot-rabbitmq/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rabbitmqhello/src/main/java/com/atquigu/rabbitmq/nine/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="92">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -52,6 +54,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -142,6 +147,7 @@
     <option name="width" value="1878" />
     <option name="height" value="993" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -332,7 +338,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663494947858" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663495138797" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mayikt-springboot-rabbitmq" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -539,12 +545,12 @@
       <workItem from="1662384937238" duration="4769000" />
       <workItem from="1662469774068" duration="1990000" />
       <workItem from="1662869900543" duration="22199000" />
-      <workItem from="1663463591149" duration="7194000" />
+      <workItem from="1663463591149" duration="7438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82920000" />
+    <option name="totallyTimeSpent" value="83164000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -558,7 +564,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2384802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2384802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -568,12 +574,12 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21808511" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.59574467" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.61170214" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.6412078" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.17021276" />
@@ -1080,8 +1086,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbitmqhello/src/main/java/com/atquigu/rabbitmq/nine/Producer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="92">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
